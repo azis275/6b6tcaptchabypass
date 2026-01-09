@@ -28,6 +28,9 @@ npm start
 - Sets yaw and pitch to look straight up (prevents straying)
 - Moves backwards continuously after spawning
 - Maintains straight-up look direction
+- Blocks packets during server transition
+  
+
 
 
 
