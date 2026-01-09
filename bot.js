@@ -4,8 +4,8 @@ const mineflayer = require('mineflayer');
 const config = {
   host: 'alt3.6b6t.org',
   port: 25565,
-  username: 'niggerbigger69',
-  password: 'fR25F9xHjiDKj',
+  username: '',
+  password: '',
   version: false
 };
 
@@ -259,5 +259,6 @@ bot._client.write = function(name, params) {
   
   return originalWrite.call(this, name, params);
 };
+
 
 console.log('Connecting to server...');
