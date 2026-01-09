@@ -2,6 +2,7 @@
 
 A Mineflayer bot that automatically logs in and moves backwards while looking straight up.
 (vibecoded)
+
 Doesn't byppas lobby only auth server.
 ## Setup
 
@@ -27,5 +28,6 @@ npm start
 - Sets yaw and pitch to look straight up (prevents straying)
 - Moves backwards continuously after spawning
 - Maintains straight-up look direction
+
 
 
